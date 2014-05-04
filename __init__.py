@@ -1,0 +1,1 @@
+from multiscrobbler import MultiScrobbler
